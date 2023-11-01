@@ -1,0 +1,16 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "description": "Solutions to TOP's Node path, Javascript course, DSA sub-course, Project Linked Lists",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Berget1411/Linked-lists"
+  },
+  "author": "",
+  "license": "ISC"
+}
