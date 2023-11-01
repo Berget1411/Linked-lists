@@ -39,7 +39,7 @@ export default class LinkedList {
     if (this.size < 2) {
       return "No tail exists";
     } else {
-      let currentNode = this.head;
+      currentNode = this.head;
 
       while (currentNode.nextNode) {
         currentNode = currentNode.nextNode;
